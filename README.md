@@ -1,0 +1,2 @@
+# SnapAI
+Reel generating website
